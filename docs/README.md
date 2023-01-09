@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sambenko/esp32s3-box-graphics-tester">
-    <img src="images/esp32s3box_tester.png" alt="Logo" width="150" height="150">
+    <img src="images/esp32s3box_tester.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">ESP32S3-BOX Graphics Tester</h3>
