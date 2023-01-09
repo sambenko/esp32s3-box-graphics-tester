@@ -13,7 +13,7 @@
     A simple program to test embedded graphics with esp32s3-box using embedded graphics simulator.
   </p>
   <p align="center">
-    Thanks to [@username] (https://www.github.com/georgik) for creating a PR on my examples repository and suggesting this approach.
+    Thanks to [@georgik] (https://www.github.com/georgik) for creating a PR on my examples repository and suggesting this approach.
   </p>
 </div>
 
