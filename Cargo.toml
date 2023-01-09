@@ -1,0 +1,12 @@
+[package]
+name = "esp32s3_box_graphics_tester"
+version = "0.1.0"
+authors = ["Samuel Benko <samuel.benko@espressif.com>"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+embedded-graphics = "0.7"
+embedded-graphics-simulator = "0.4.0"
+embedded-graphics-framebuf = "0.2.0"
+examples-assets = { git = "https://github.com/sambenko/esp32s3-box-examples.git" }
