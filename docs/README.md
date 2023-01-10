@@ -61,6 +61,6 @@ Then, simply run:
 and this should be the output you get after the program compiles:
 
 
-<img src="images/example.png" alt="LGuy" width="250" height="250">
+<img src="images/example.png" alt="LGuy" width="337" height="281">
 
 
