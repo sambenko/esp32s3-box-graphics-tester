@@ -15,6 +15,9 @@
   <p align="center">
     Thanks to @georgik (https://www.github.com/georgik) for creating a PR on my examples repository and suggesting this approach.
   </p>
+  <p align="center">
+    <b> Can't be used to test animations, only drawn examples outside of loop{} </b>
+  </p>
 </div>
 
 ## Usage
