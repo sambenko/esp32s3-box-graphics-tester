@@ -197,7 +197,7 @@ dependencies = [
 [[package]]
 name = "examples-assets"
 version = "0.1.0"
-source = "git+https://github.com/sambenko/esp32s3-box-examples.git#8d150d20b45d311ce60e2726feefcd4fc43668da"
+source = "git+https://github.com/sambenko/esp32s3-box-examples.git#7941968d102995659462961f08b5f12f526d95af"
 dependencies = [
  "embedded-graphics",
  "libm",
