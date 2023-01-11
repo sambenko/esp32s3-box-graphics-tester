@@ -55,7 +55,7 @@ body_part(&mut display, "'", [30.0, 30.0, 110.0, 110.0], 3300, -1, -1);
 Then, simply run:
 
 ```sh
-   cargo run --release
+cargo run --release
 ```
 
 and this should be the output you get after the program compiles:
