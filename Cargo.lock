@@ -191,17 +191,6 @@ dependencies = [
  "embedded-graphics",
  "embedded-graphics-framebuf",
  "embedded-graphics-simulator",
- "examples-assets",
-]
-
-[[package]]
-name = "examples-assets"
-version = "0.1.0"
-source = "git+https://github.com/sambenko/esp32s3-box-examples.git#7941968d102995659462961f08b5f12f526d95af"
-dependencies = [
- "embedded-graphics",
- "libm",
- "tinybmp",
 ]
 
 [[package]]
@@ -271,12 +260,6 @@ name = "libc"
 version = "0.2.139"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "201de327520df007757c1f0adce6e827fe8562fbc28bfd9c15571c66ca1f5f79"
-
-[[package]]
-name = "libm"
-version = "0.2.6"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "348108ab3fba42ec82ff6e9564fc4ca0247bdccdc68dd8af9764bbc79c3c8ffb"
 
 [[package]]
 name = "memoffset"
@@ -447,15 +430,6 @@ dependencies = [
  "jpeg-decoder",
  "miniz_oxide 0.4.4",
  "weezl",
-]
-
-[[package]]
-name = "tinybmp"
-version = "0.4.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0e959c507975d768a226a08227d56791f6e60bddcf714ad7ef67ae2d20bae743"
-dependencies = [
- "embedded-graphics",
 ]
 
 [[package]]
