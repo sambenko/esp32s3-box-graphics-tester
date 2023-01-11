@@ -24,14 +24,14 @@
 
 Let's demostrate usage on my lollipop guy example [:scroll:](https://github.com/sambenko/esp32s3-box-examples/blob/main/examples/lollipop_guy.rs "Source Code") [:art:](https://github.com/sambenko/esp32s3-box-examples/blob/main/docs/images/lollipop_guy.jpg "Picture")
 
-Firstly, paste your packages between the comments above the main() in main.rs:
+Firstly, paste your crates between the comments above the main() in main.rs (you also have to include used crates in Cargo.toml):
 
 ```rust
-//paste your packages here (only those unrelated to chip initialisation and those that are not here already):
+//paste your crates here (only those unrelated to chip initialisation and those that are not here already):
 
 use examples_assets::{body_part, hand};
 
-// end of packages
+// end of crates
 ```
 
 :bulb: <b> Relocate your drawing functionality to a separate crate for easier import as shown above</b>
